@@ -23,7 +23,7 @@
 
 🔹 [![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org/)  
 🔹 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-🔹 [![Django](https://img.shields.io/badge/-Django-ffffff?style=for-the-badge&logo=django&logoColor=092E20)](https://www.djangoproject.com/)  
+🔹 [![Django](https://img.shields.io/badge/-Django-ffffff?style=for-the-badge&logo=django&logoColor=092E20&border=000000)](https://www.djangoproject.com/)  
 🔹 [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)  
 🔹 [![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)](https://cplusplus.com/)  
 🔹 [![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5&logoColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)  
