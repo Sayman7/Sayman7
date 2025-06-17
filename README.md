@@ -29,7 +29,7 @@ graph LR
 
 **Styling & Design:**  
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 **Animation & 3D:**  
