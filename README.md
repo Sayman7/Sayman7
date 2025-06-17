@@ -140,9 +140,9 @@ graph LR
 ## **✨ Featured Creations**
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|----------|
-| **[ALGOVisualizer](https://github.com/worksofsayman/algovisualizer)** | DSA Visualizer | Django, HTML5/CSS/Vanilla Javascript, REST API | [Demo](https://algovisualizer.pythonanywhere.com) |
-| **[Alchemy UI](https://github.com/worksofsayman/alchemy-ui)** | Component Library for Modern Web | React, TypeScript, Storybook | [Storybook](https://alchemy-ui.vercel.app) |
-| **[Quantum](https://github.com/worksofsayman/quantum)** | AI-Powered Code Generator | Python, GPT-3, Next.js | [Try It](https://quantum-ai.vercel.app) |
+| **[ALGOVisualizer](https://github.com/team-vasiliades/algovisualizer)** | DSA Visualizer | Django, HTML5/CSS/Vanilla Javascript, REST API | [Demo](https://algovisualizer.pythonanywhere.com) |
+| **[ArtMart](https://github.com/praveenraj027/artmart)** | E-commerce + Social Media Platform | React, Django, TailwindCSS | [Demo](https://alchemy-ui.vercel.app) |
+| **[VoteX](https://github.com/team-vasiliades/votex)** | Decentralized and Secured Voting System | Solidity, Ether.js, Next.js | [Demo](https://quantum-ai.vercel.app) |
 
 ---
 
@@ -169,7 +169,7 @@ graph LR
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/worksofsayman)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:businesssayman@gmail.com)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/-WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919179387285?text=Hi%20Sayman!%20I%20saw%20your%20GitHub%20profile)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![WhatsApp](https://img.shields.io/badge/-WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919179387285?text=Hi%20Sayman!%20I%20saw%20your%20GitHub%20profile)
 
 ---
 
@@ -194,4 +194,4 @@ while True:
 
 ---
 
-![Cosmic Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Keep%20Coding%20Magic&fontSize=30&fontAlignY=40)
+![Cosmic Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Vibe%20Coding%20Is%20Real%20Fun!&fontSize=30&fontAlignY=40)
