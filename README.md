@@ -44,7 +44,7 @@ graph LR
 ## **✨ Featured Creations**
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|----------|
-| **[NeuroForge](https://github.com/worksofsayman/algovisualizer)** | DSA Visualizer | Django, HTML5/CSS/Vanilla Javascript, REST API | [Demo](https://algovisualizer.pythonanywhere.com) |
+| **[ALGOVisualizer](https://github.com/worksofsayman/algovisualizer)** | DSA Visualizer | Django, HTML5/CSS/Vanilla Javascript, REST API | [Demo](https://algovisualizer.pythonanywhere.com) |
 | **[Alchemy UI](https://github.com/worksofsayman/alchemy-ui)** | Component Library for Modern Web | React, TypeScript, Storybook | [Storybook](https://alchemy-ui.vercel.app) |
 | **[Quantum](https://github.com/worksofsayman/quantum)** | AI-Powered Code Generator | Python, GPT-3, Next.js | [Try It](https://quantum-ai.vercel.app) |
 
