@@ -1,7 +1,7 @@
-# **🌟 Sayman Lal - A CodeChemist**  
+# **🌟 Sayman Lal - CodeChemist**  
 **Developer | Author | Entrepreneur**  
 
-Welcome to my digital forge where I transmute ideas into reality through code, creativity, and cutting-edge technology. Founder of [AIAlchemist](https://github.com/AIAlchemist), crafting intelligent solutions at the intersection of AI and web development.
+Welcome to my digital forge where I transmute ideas into reality through code, creativity, and cutting-edge technology. Founder of [AIALCHEMIST](https://github.com/aialchemist-org), crafting intelligent solutions at the intersection of AI and web development.
 
 ```mermaid
 graph LR
