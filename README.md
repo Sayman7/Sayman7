@@ -1,15 +1,15 @@
 # **👋 Hey there! I'm Sayman Lal**  
-**AI/ML Enthusiast | Frontend Developer | Problem Solver**  
+**Developer | Author | Entrepreneur**  
 
 Welcome to my GitHub realm! I build intelligent systems and pixel-perfect interfaces while exploring the frontiers of technology.  
 
 ---
 
 ## **🚀 Quick Glance**  
-- 🎓 **Computer Science Engineer** (Specializing in AI/ML)  
-- 💻 **Frontend Developer** with React.js expertise  
+- 🎓 **B.Tech in Computer Science Engineer** (Specializing in AI/ML)  
+- 💻 **Frontend Developer** with React.js & Next.js expertise  
 - 🏆 **Hackathon Champion** & Open Source Contributor  
-- 🌱 Currently mastering **Generative AI** and **Cloud Computing**  
+- 🌱 Currently mastering **Machine Learning** and **Cloud Computing**  
 
 ---
 
@@ -42,22 +42,22 @@ Welcome to my GitHub realm! I build intelligent systems and pixel-perfect interf
 
 ## **📊 GitHub Stats**  
 
-![Sayman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saymanlal&show_icons=true&theme=radical)  
+![Sayman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=worksofsayman&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saymanlal&layout=compact&theme=nightowl)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=worksofsayman&layout=compact&theme=nightowl)  
 
 ---
 
 ## **🏆 Achievements**  
-- **1st Runner Up** at GenHack 2024 (Team Lead)  
-- **Google DevFest** Speaker (2023)  
+- **1st Runner Up** at Genethon 2024 (Team Lead)  
+- **UiPath GGITS Introduction Session** Speaker (2025)  
 - **5+ Open Source Contributions**  
 
 ---
 
 ## **📬 Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/saymanlal)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:saymanlal@example.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/worksofsayman)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail)](mailto:buisnesssayman@gmail.com)  
 
 ---
 
