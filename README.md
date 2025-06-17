@@ -14,108 +14,121 @@ graph LR
 ---
 
 ## **🚀 Core Expertise**
-🧪 Frontend Alchemy
-Core Frameworks:
-https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black
-https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white
-https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white
 
-Build Tools:
-https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white
+### **🧪 Frontend Alchemy**
 
-Styling & Design:
-https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white
-https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white
-https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white
+**Core Frameworks:**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?logo=svelte&logoColor=white)
 
-Animation & 3D:
-https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white
-https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white
+**Build Tools:**  
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 
-🔮 AI/ML Sorcery
-Core Frameworks:
-https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white
-https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white
+**Styling & Design:**  
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-Specialized AI:
-https://img.shields.io/badge/-LangChain-00A67D?logo=python&logoColor=white
-https://img.shields.io/badge/-LlamaIndex-412991?logo=python&logoColor=white
+**Animation & 3D:**  
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?logo=framer&logoColor=white)
+![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)
 
-MLOps:
-https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white
-https://img.shields.io/badge/-Kubeflow-326CE5?logo=kubernetes&logoColor=white
+---
 
-🔗 Web3 Wizardry
-Blockchains:
-https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white
-https://img.shields.io/badge/-Solana-000000?logo=solana&logoColor=white
+### **🔮 AI/ML Sorcery**
 
-Smart Contracts:
-https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white
-https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white (for Solana)
+**Core Frameworks:**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 
-Web3 Frameworks:
-https://img.shields.io/badge/-Hardhat-FFF100?logo=ethereum&logoColor=black
-https://img.shields.io/badge/-Foundry-FFA500?logo=ethereum&logoColor=black
+**Specialized AI:**  
+![LangChain](https://img.shields.io/badge/-LangChain-00A67D?logo=python&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-412991?logo=python&logoColor=white)
 
-Tools:
-https://img.shields.io/badge/-MetaMask-FF7B00?logo=metamask&logoColor=white
-https://img.shields.io/badge/-WalletConnect-3B99FC?logo=walletconnect&logoColor=white
+**MLOps:**  
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/-Kubeflow-326CE5?logo=kubernetes&logoColor=white)
 
-Full-Stack Web3:
-https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white
-https://img.shields.io/badge/-Ethers.js-3C3C3D?logo=ethereum&logoColor=white
-https://img.shields.io/badge/-The_Graph-171E27?logo=the-graph&logoColor=white
+---
 
-Storage:
-https://img.shields.io/badge/-IPFS-65C2CB?logo=ipfs&logoColor=white
-https://img.shields.io/badge/-Filecoin-0090FF?logo=filecoin&logoColor=white
+### **🔗 Web3 Wizardry**
 
-DAOs & Governance:
-https://img.shields.io/badge/-Aragon-FF646F?logo=aragon&logoColor=white
-https://img.shields.io/badge/-Snapshot-000000?logo=snapshot&logoColor=white
+**Blockchains:**  
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/-Solana-000000?logo=solana&logoColor=white)
 
-⚗️ Backend & Infrastructure Alchemy
-Frameworks & Runtimes:
-https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white
-https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white
-https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white
-https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white
-https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white
+**Smart Contracts:**  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
 
-Databases:
-https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white
-https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white
-https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white
-https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white
+**Web3 Frameworks:**  
+![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?logo=ethereum&logoColor=black)
+![Foundry](https://img.shields.io/badge/-Foundry-FFA500?logo=ethereum&logoColor=black)
 
-Serverless & BaaS:
-https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black
-https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white
+**Tools:**  
+![MetaMask](https://img.shields.io/badge/-MetaMask-FF7B00?logo=metamask&logoColor=white)
+![WalletConnect](https://img.shields.io/badge/-WalletConnect-3B99FC?logo=walletconnect&logoColor=white)
 
-DevOps & Cloud:
-https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white
-https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white
-https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white
-https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white
-https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white
+**Full-Stack Web3:**  
+![Web3.js](https://img.shields.io/badge/-Web3.js-F16822?logo=web3.js&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-3C3C3D?logo=ethereum&logoColor=white)
+![The Graph](https://img.shields.io/badge/-The_Graph-171E27?logo=the-graph&logoColor=white)
 
-API Technologies:
-https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white
-https://img.shields.io/badge/-gRPC-4285F4?logo=google&logoColor=white
-https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white
+**Storage:**  
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?logo=ipfs&logoColor=white)
+![Filecoin](https://img.shields.io/badge/-Filecoin-0090FF?logo=filecoin&logoColor=white)
 
-ORMs & Tools:
-https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white
-https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white
+**DAOs & Governance:**  
+![Aragon](https://img.shields.io/badge/-Aragon-FF646F?logo=aragon&logoColor=white)
+![Snapshot](https://img.shields.io/badge/-Snapshot-000000?logo=snapshot&logoColor=white)
 
-CI/CD:
-https://img.shields.io/badge/-GitHub%2520Actions-2088FF?logo=github-actions&logoColor=white
-https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white
+---
 
-Monitoring:
-https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white
-https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white
+### **⚗️ Backend & Infrastructure Alchemy**
+
+**Frameworks & Runtimes:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+
+**Databases:**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+
+**Serverless & BaaS:**  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+
+**DevOps & Cloud:**  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
+
+**API Technologies:**  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/-gRPC-4285F4?logo=google&logoColor=white)
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white)
+
+**ORMs & Tools:**  
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
+
+**CI/CD:**  
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+
+**Monitoring:**  
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)
 
 ### **🧰 Dev Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
