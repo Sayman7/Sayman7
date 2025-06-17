@@ -44,7 +44,7 @@ graph LR
 ## **✨ Featured Creations**
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|----------|
-| **[NeuroForge](https://github.com/worksofsayman/neuroforge)** | AI Model Deployment Platform | Next.js, TensorFlow, FastAPI | [Demo](https://neuroforge.vercel.app) |
+| **[NeuroForge](https://github.com/worksofsayman/algovisualizer)** | DSA Visualizer | Django, HTML5/CSS/Vanilla Javascript, REST API | [Demo](https://algovisualizer.pythonanywhere.com) |
 | **[Alchemy UI](https://github.com/worksofsayman/alchemy-ui)** | Component Library for Modern Web | React, TypeScript, Storybook | [Storybook](https://alchemy-ui.vercel.app) |
 | **[Quantum](https://github.com/worksofsayman/quantum)** | AI-Powered Code Generator | Python, GPT-3, Next.js | [Try It](https://quantum-ai.vercel.app) |
 
@@ -63,12 +63,12 @@ graph LR
 - 🥈 **1st Runner Up** at Genethon 2024 (Team Lead)
 - 🎤 **UiPath GGITS Introduction Session** Speaker (2025)
 - 🏅 **5+ Open Source Contributions** to major projects
-- 📚 Published **3 Technical Articles** on Medium
+- 📚 Published **1 Poetry book** on love
 
 ---
 
 ## **🌐 Connect With Me**
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://saymanlal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://worksofsayman.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/worksofsayman)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/worksofsayman)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:businesssayman@gmail.com)
@@ -92,7 +92,7 @@ while True:
 
 ---
 
-⭐ **Pro Tip:** Check out my [AIAlchemist](https://github.com/AIAlchemist) organization for cutting-edge AI projects!
+⭐ **Pro Tip:** Check out my [AIALCHEMIST](https://aialchemist2025.pythonanywhere.com/) organization for cutting-edge AI projects!
 
 ---
 
