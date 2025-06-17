@@ -174,9 +174,9 @@ graph LR
 ---
 
 ## **💡 Currently Brewing**
-- 🔥 Building an AI-powered **developer toolkit**
-- 📝 Writing a **technical book** on modern web development
-- 🌱 Learning **Rust** and **WebAssembly**
+- 🔥 Building an AI-powered **assistive operating system**
+- 📝 Writing a **technical book** on modern web technologies
+- 🌱 Learning **Low Level Programming** and **Ethical Hacking**
 
 ```python
 # My current coding ritual
