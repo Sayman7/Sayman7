@@ -167,8 +167,10 @@ graph LR
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://worksofsayman.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/worksofsayman)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/worksofsayman)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail)](mailto:businesssayman@gmail.com)
-
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:businesssayman@gmail.com)
+[![Contact](https://img.shields.io/badge/📞_Contact_via_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919179387285)
+[![Chat](https://img.shields.io/badge/%F0%9F%92%AC_Send_Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919179387285)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp%20Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919179387285?text=Hi%20Sayman!%20I%20saw%20your%20GitHub%20profile)
 ---
 
 ## **💡 Currently Brewing**
